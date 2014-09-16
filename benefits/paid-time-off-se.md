@@ -22,7 +22,7 @@ We do not include variable pay such as commissions and bonuses in holiday pay
 calculations.
 
 The number of days of annual leave with pay is to be calculated in the following
-way. There number of days when the employee has been completely absent from work
+way. The number of days when the employee has been completely absent from work
 without pay is subtracted from the days that the employee has been in the
 employer's service during the year (period of employment). The period of
 employment includes absence due to annual leave, lay-offs or absence that
@@ -42,7 +42,7 @@ is not possible to take saved days’ holiday and save new ones in the same year
 
 ### Unused Holiday
 
-Unused holidays that remain when the employment ceases is remunerated at 5.4% of
+Unused holiday that remains when the employment ceases is remunerated at 5.4% of
 the employee's current monthly salary per day's holiday.
 
 ## Sick Time Off
