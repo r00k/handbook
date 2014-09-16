@@ -33,11 +33,11 @@ be rounded up to the nearest whole number.
 
 ### Saved Holiday
 
-Paid holiday exceeding 20 days can be saved for a maximum of five years.
+Up to 5 days of unused paid holiday can be saved for a maximum of five years.
 
 The employer and employee must agree on how saved holidays are to be taken. 
 
-The saved days’ holiday must be taken in the order in which they were saved. It
+The saved days' holiday must be taken in the order in which they were saved. It
 is not possible to take saved days’ holiday and save new ones in the same year. 
 
 ### Unused Holiday
@@ -81,8 +81,8 @@ has provided the confirmation.
 ## Brief Leave with Pay
 
 Brief leave with pay means a short leave during at the most one day with full
-pay. In the case of a close relative's funeral, the leave may also include
-necessary – however not more than two – travel days.
+pay. In the case of a close relative's funeral, the leave may also include up to
+two travel days if necessary.
 
 Brief leave with pay may be granted in the following cases:
 
@@ -91,8 +91,7 @@ Brief leave with pay may be granted in the following cases:
 * First time visit to doctor or dentist in case of emergency illness or
   accident.
 * Visit to hospital after a letter of referral from company doctor or another
-  doctor assigned by the employer, and prescribed return visits. A more
-  favourable practice at an individual company shall be retained.
+  doctor assigned by the employer, and prescribed return visits.
 * An employee who has worked part of a day and thereafter needs to leave the
   workplace for the rest of the day because of a work injury, will receive a
   brief leave with pay for this time. One precondition in order to receive wages
@@ -108,8 +107,8 @@ The term close relative means husband/wife, co-habitee under circumstances
 similar to marriage, children, grandchildren, siblings, parents, parents-in-law
 and grandparents. 
 
-A request for brief leave with pay shall be made as in advance as possible. The
-reason for the brief leave shall be explained. 
+A request for brief leave with pay shall be made with as much notice as
+possible. The reason for the brief leave should be explained.
 
 There is no deduction in salary for approved brief leave.
 
