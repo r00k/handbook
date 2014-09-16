@@ -1,7 +1,7 @@
 # Sweden Paid Time Off
 
-This is the policy for the Stockholm. There is an [alternate policy if you are
-located in the US][us].
+This is the policy for Sweden. There is an [alternate policy if you are located
+in the US][us].
 
 ## Holiday Time Off
 

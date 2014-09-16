@@ -1,5 +1,5 @@
 This is the policy for the US offices. There is an [alternate policy if you are
-located in Stockholm][stockholm].
+located in Sweden][stockholm].
 
 # Work Leave
 

@@ -1,7 +1,7 @@
 # Paid Time Off
 
 This is the policy for the US offices. There is an [alternate policy if you are
-located in Stockholm][stockholm].
+located in Sweden][stockholm].
 
 Our vacation policy is that employees can use their own judgment when taking time off and there will not be a set limit of time off per year that must be adhered to.
 
