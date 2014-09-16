@@ -1,3 +1,6 @@
+This is the policy for the US offices. There is an [alternate policy if you are
+located in Stockholm][stockholm].
+
 # Work Leave
 
 Any leave taken for 3 consecutive weeks or under is considered [Paid Time Off][pto-policy]. Any leave longer than 3 weeks is unpaid leave.
@@ -60,3 +63,4 @@ Any employee who is requested to perform service as a juror shall be given unpai
 
 [pto-policy]: paid-time-off.md
 [outside-employment]: ../policies/outside-employment.md
+[stockholm]: paid-time-off-se.md
