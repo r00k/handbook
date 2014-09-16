@@ -9,7 +9,7 @@ In Sweden, every employee is entitled with at least 25 days' holiday (work days)
 every annual year. In addition, there may be extra holidays per your employment
 agreement. Our holiday-earning year runs from 1 April to 31 March. 
 
-Our goal with this policy is to have a Sweden standard holiday policy and to
+Our goal with this policy is to have a standard Swedish holiday policy and to
 follow the Annual Leave Act.
 
 ### Pay During Holiday
